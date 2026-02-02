@@ -4,4 +4,4 @@ In this task I predict how the system will evolve over time and estimate the pro
 Three matrices (in this order); transition matrix, emission matrix, and initial state probability distribution. The initial state probability distribution is a row vector encoded as a matrix with only one row. Each matrix is given on a separate line with the number of rows and columns followed by the matrix elements (ordered row by row). Note that the rows and column size can be different from the sample input.
 
 **Output**
-The emission probability distribution on a single line in the same matrix format, including the dimensions.
+/n \n n/The emission probability distribution on a single line in the same matrix format, including the dimensions.
